@@ -5,13 +5,10 @@
 - 💬 Ask me anything about nodejs and python
 
 <div>
- <img width="500em" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=avrahambenaram&theme=dracula"/>
- <img width="500em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrahambenaram&layout=compact&theme=dracula" alt="avrahambenaram's most languages"/>
+ <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=avrahambenaram&theme=dracula"/>
+ <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrahambenaram&layout=compact&theme=dracula" alt="avrahambenaram's most languages"/>
+ <img width="500em" src="https://github-readme-stats.vercel.app/api?username=avrahambenaram&show_icons=true&theme=dracula" alt="avrahambenaram's stats"/>
 </div>
-<br>
-<p align="center">
-  <img width="600em" src="https://github-readme-stats.vercel.app/api?username=avrahambenaram&show_icons=true&theme=dracula" alt="avrahambenaram's stats"/>
-</p>
 
 ##
 
