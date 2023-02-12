@@ -1,12 +1,12 @@
 ### Sou um jovem apaixonado por tecnologia, estudei computação desde seus fundamentos, sou muito curioso e estou sempre em busca de novos desafios sobre o mundo do desenvolvimento, trabalho com NodeJS e Python, oferecendo serviços na área de mobile, desenvolvimento web e back-end, aprendizado de máquina e bots.
 
-- 🔭 I’m currently working on my new portfolio
-- 🌱 I’m currently learning about clean code, machine learning and deep learning
-- 💬 Ask me anything about nodejs and python
+- 🔭 Estou atualmente trabalhando no meu novo portfolio
+- 🌱 Estou atualmente estudando sobre clean code, DDD, machine learning e deep learning
+- 💬 Me pergunte qualquer coisa sobre nodejs e python
 
 <div>
  <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=avrahambenaram&theme=dracula"/>
- <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrahambenaram&layout=compact&theme=dracula&custom_title=Linguagens%20mais%20usadas" alt="Avraham's most used languages"/>
+ <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrahambenaram&layout=compact&theme=dracula" alt="Avraham's most used languages"/>
  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=avrahambenaram&show_icons=true&theme=dracula&custom_title=Avraham%20Github%20Stats" alt="Avraham's stats"/>
 </div>
 
