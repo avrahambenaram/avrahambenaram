@@ -10,7 +10,7 @@ Sou um jovem apaixonado por tecnologia, estudei computação desde seus fundamen
 
 ##
 
-## Tecnologias que eu atuo
+## Tecnologias
 <p>
   <img width="60em" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="60em" height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
