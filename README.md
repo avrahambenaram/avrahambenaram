@@ -1,7 +1,7 @@
 Sou um jovem apaixonado por tecnologia, estudei computação desde seus fundamentos, sou muito curioso e estou sempre em busca de novos desafios sobre o mundo do desenvolvimento, trabalho com NodeJS e Python, oferecendo serviços na área de mobile, desenvolvimento web e back-end, aprendizado de máquina e bots.
 
 - 🔭 Estou atualmente trabalhando no meu novo portfolio
-- 🌱 Estou estudando sobre clean code, DDD, machine learning e deep learning
+- 🌱 Estou estudando sobre NestJS, clean code, DDD, machine learning e deep learning
 - 💬 Me pergunte qualquer coisa sobre nodejs e python
 
  <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=avrahambenaram&theme=dracula"/>
