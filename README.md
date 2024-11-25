@@ -4,8 +4,8 @@ Sou um jovem apaixonado por tecnologia, estudei computação desde seus fundamen
 - 💬 Me pergunte qualquer coisa sobre nodejs, go e nix.
 
  <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=avrahambenaram&theme=catppuccin-frappe"/>
- <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrahambenaram&layout=compact&theme=catppuccin-frappe" alt="Avraham's most used languages"/>
- <img width="500em" src="https://github-readme-stats.vercel.app/api?username=avrahambenaram&show_icons=true&theme=catppuccin-frappe&custom_title=Avraham%20Github%20Stats" alt="Avraham's stats"/>
+ <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrahambenaram&layout=compact&theme=catppuccin_mocha" alt="Avraham's most used languages"/>
+ <img width="500em" src="https://github-readme-stats.vercel.app/api?username=avrahambenaram&show_icons=true&theme=catppuccin_mocha&custom_title=Avraham%20Github%20Stats" alt="Avraham's stats"/>
 
 ##
 
